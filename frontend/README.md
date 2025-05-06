@@ -18,9 +18,9 @@ WHAT YOU CAN DO IN IT
   -- you can search the songs, this have some ugly UI for now. And unecessary files.
   
 ### using the beat box
-step 1: clone the repo
-step 2: Install the necessary depedencies
-step 3: Now, create a spotify app. Get the client_id , client_secret.
-step 4: just paste your client id, client secret.
-step 5: Start the server.js
-step 6: Start frontend server
+step 1: clone the repo<br/>
+step 2: Install the necessary depedencies <br/>
+step 3: Now, create a spotify app. Get the client_id , client_secret. <br/>
+step 4: just paste your client id, client secret. <br/>
+step 5: Start the server.js <br/>
+step 6: Start frontend server<br/>
