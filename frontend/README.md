@@ -10,3 +10,17 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+
+### BeatBox
+A simple music player app. But now in this raw form you cannot use the it. Beacause it do not have playback features, for spotify-playback sdk you need subscription which i dont have now.
+
+WHAT YOU CAN DO IN IT
+  -- you can search the songs, this have some ugly UI for now. And unecessary files.
+  
+### using the beat box
+step 1: clone the repo
+step 2: Install the necessary depedencies
+step 3: Now, create a spotify app. Get the client_id , client_secret.
+step 4: just paste your client id, client secret.
+step 5: Start the server.js
+step 6: Start frontend server
